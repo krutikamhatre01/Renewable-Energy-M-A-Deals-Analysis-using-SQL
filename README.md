@@ -1,6 +1,6 @@
 # Renewable-Energy-M-A-Deals-Analysis-using-SQL
 
-Project Overview
+Project Overview:
 This project analyzes Mergers & Acquisitions (M&A) trends in the Renewable Energy sector using SQL. By examining transaction data, we gain insights into top acquiring companies, deal values, market trends, and sector-wise M&A distribution.
 
 Database Schema
@@ -180,7 +180,7 @@ select Buyer as Company_name from deals
 union
 select Seller as Company_na   me from deals 
 
-Conclusion
+Conclusion:
 The SQL analysis provides valuable insights into the Renewable Energy M&A sector, identifying: 
 The most active acquiring companies 
 Key trends in deal values and sectors 
