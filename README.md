@@ -8,7 +8,7 @@ Tables Used:
 1. RE_Companies: Stores company details such as name, country, sector, and revenue.
 2. Deals: Stores M&A transactions with details like acquiring company, acquired company, deal value, sector, and deal date
 
-SQL Functions and Formulas Used
+SQL Functions and Formulas Used:
 1. Aggregate Functions:
 2. Built_in Functions
 3. Where and Having Clauses
