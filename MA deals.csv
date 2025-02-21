@@ -1,0 +1,501 @@
+Buyer,Seller,Deal Value (USD),Sector,Deal Date
+Brookfield Renewable Partners,EDF Renewables,638000000,Solar,2016-05-02
+TotalEnergies,Iberdrola,2363000000,Wind,2017-08-19
+NextEra Energy,Engie,2737000000,Renewable,2016-04-29
+EDF Renewables,NextEra Energy,2189000000,Hydro,2018-09-14
+Orsted,Enel Green Power,3953000000,Wind,2021-05-02
+Vestas,Tesla Energy,883000000,Hydro,2020-12-13
+Enel Green Power,NextEra Energy,1882000000,Solar,2021-03-14
+Enel Green Power,NextEra Energy,4399000000,Wind,2024-05-30
+TotalEnergies,Enel Green Power,567000000,Wind,2024-03-21
+Tesla Energy,Engie,2572000000,Solar,2018-09-19
+Orsted,Enel Green Power,3036000000,Renewable,2018-07-25
+NextEra Energy,Iberdrola,931000000,Wind,2017-12-23
+Tesla Energy,Vestas,4005000000,Solar,2022-04-09
+Enel Green Power,Orsted,3653000000,Wind,2022-12-01
+Brookfield Renewable Partners,Engie,1825000000,Renewable,2015-03-30
+EDF Renewables,Tesla Energy,2230000000,Wind,2016-06-22
+EDF Renewables,Vestas,1728000000,Solar,2023-06-16
+Enel Green Power,Brookfield Renewable Partners,600000000,Solar,2020-05-16
+Vestas,Orsted,3598000000,Solar,2023-08-22
+NextEra Energy,Enel Green Power,1440000000,Hydro,2018-06-07
+Engie,NextEra Energy,3734000000,Renewable,2018-01-11
+Enel Green Power,NextEra Energy,2070000000,Solar,2021-02-21
+Engie,EDF Renewables,767000000,Hydro,2024-06-15
+Enel Green Power,Tesla Energy,4873000000,Renewable,2019-08-08
+Vestas,Engie,797000000,Renewable,2016-06-26
+EDF Renewables,Vestas,1785000000,Renewable,2017-07-13
+EDF Renewables,Tesla Energy,2608000000,Hydro,2024-11-13
+EDF Renewables,TotalEnergies,1786000000,Solar,2023-10-12
+Tesla Energy,Orsted,1355000000,Wind,2019-07-14
+Engie,EDF Renewables,3070000000,Solar,2015-09-30
+Enel Green Power,Tesla Energy,4714000000,Solar,2021-05-20
+EDF Renewables,TotalEnergies,3592000000,Solar,2015-02-15
+EDF Renewables,Enel Green Power,4353000000,Solar,2021-12-11
+Enel Green Power,Iberdrola,4217000000,Solar,2019-04-28
+Iberdrola,Orsted,4816000000,Wind,2018-03-20
+Orsted,Tesla Energy,4514000000,Solar,2022-04-07
+Iberdrola,EDF Renewables,4388000000,Solar,2021-02-02
+Orsted,Enel Green Power,4479000000,Wind,2021-05-05
+EDF Renewables,Engie,2566000000,Renewable,2018-08-23
+Brookfield Renewable Partners,Vestas,4616000000,Solar,2024-09-01
+EDF Renewables,Orsted,2720000000,Solar,2017-10-04
+NextEra Energy,Engie,4639000000,Solar,2023-06-16
+Brookfield Renewable Partners,Vestas,3959000000,Solar,2015-01-01
+Brookfield Renewable Partners,Tesla Energy,2283000000,Solar,2023-06-17
+Iberdrola,TotalEnergies,2803000000,Solar,2024-06-27
+NextEra Energy,Tesla Energy,3975000000,Renewable,2022-09-06
+Vestas,TotalEnergies,4306000000,Hydro,2020-06-20
+Orsted,Iberdrola,1688000000,Renewable,2016-10-25
+Iberdrola,Engie,1787000000,Hydro,2018-08-03
+EDF Renewables,NextEra Energy,3982000000,Solar,2023-10-24
+TotalEnergies,Tesla Energy,1087000000,Solar,2020-09-13
+Iberdrola,Engie,4826000000,Hydro,2018-12-21
+Brookfield Renewable Partners,Enel Green Power,1203000000,Hydro,2022-09-05
+Engie,TotalEnergies,3328000000,Hydro,2020-01-11
+Brookfield Renewable Partners,Orsted,3016000000,Renewable,2016-03-17
+Orsted,Brookfield Renewable Partners,4507000000,Hydro,2019-06-03
+Brookfield Renewable Partners,Enel Green Power,4071000000,Wind,2018-10-21
+Vestas,TotalEnergies,1274000000,Renewable,2023-09-03
+Tesla Energy,Iberdrola,4615000000,Wind,2021-08-26
+EDF Renewables,NextEra Energy,564000000,Solar,2022-02-08
+Brookfield Renewable Partners,Tesla Energy,1371000000,Renewable,2016-01-11
+Tesla Energy,Orsted,4780000000,Solar,2019-12-09
+Brookfield Renewable Partners,Tesla Energy,4542000000,Solar,2015-11-09
+Enel Green Power,EDF Renewables,2869000000,Solar,2020-12-06
+Vestas,Tesla Energy,1334000000,Renewable,2021-10-22
+Tesla Energy,Enel Green Power,2549000000,Hydro,2021-02-24
+Engie,Orsted,667000000,Solar,2018-06-21
+Engie,Brookfield Renewable Partners,3329000000,Hydro,2023-04-05
+Enel Green Power,Engie,1056000000,Wind,2019-07-11
+Iberdrola,Engie,1966000000,Renewable,2024-05-23
+Enel Green Power,Orsted,3176000000,Solar,2024-08-04
+NextEra Energy,EDF Renewables,3114000000,Renewable,2022-05-13
+EDF Renewables,Vestas,4964000000,Wind,2022-08-30
+Tesla Energy,Vestas,2494000000,Hydro,2023-10-07
+TotalEnergies,Orsted,4588000000,Solar,2018-09-02
+EDF Renewables,Enel Green Power,1000000000,Solar,2022-03-24
+Vestas,Brookfield Renewable Partners,1272000000,Wind,2023-07-23
+Engie,Tesla Energy,4630000000,Hydro,2022-05-19
+NextEra Energy,Brookfield Renewable Partners,3994000000,Renewable,2023-12-31
+Iberdrola,TotalEnergies,1235000000,Hydro,2023-12-10
+Brookfield Renewable Partners,TotalEnergies,1005000000,Solar,2022-07-08
+Iberdrola,Engie,3460000000,Solar,2015-05-28
+Brookfield Renewable Partners,EDF Renewables,1579000000,Hydro,2021-03-07
+Vestas,Tesla Energy,1942000000,Solar,2020-08-26
+Enel Green Power,Tesla Energy,3514000000,Solar,2018-03-09
+Tesla Energy,NextEra Energy,1932000000,Solar,2017-09-15
+Vestas,Enel Green Power,1925000000,Renewable,2018-12-14
+Iberdrola,EDF Renewables,2632000000,Solar,2021-07-08
+Vestas,Brookfield Renewable Partners,2939000000,Wind,2017-01-12
+Brookfield Renewable Partners,EDF Renewables,601000000,Solar,2018-10-30
+TotalEnergies,Vestas,4006000000,Solar,2016-09-16
+Brookfield Renewable Partners,Enel Green Power,3961000000,Solar,2019-11-28
+Iberdrola,Tesla Energy,3687000000,Hydro,2018-05-09
+Enel Green Power,Engie,2632000000,Renewable,2023-08-17
+Brookfield Renewable Partners,Engie,585000000,Renewable,2019-02-24
+Tesla Energy,Orsted,4975000000,Solar,2016-09-30
+Engie,Iberdrola,2536000000,Hydro,2016-01-17
+NextEra Energy,Tesla Energy,1198000000,Wind,2017-12-02
+Vestas,TotalEnergies,4012000000,Renewable,2023-04-18
+EDF Renewables,TotalEnergies,2586000000,Solar,2019-11-02
+NextEra Energy,Iberdrola,3143000000,Solar,2024-04-09
+EDF Renewables,NextEra Energy,1140000000,Solar,2015-11-26
+Vestas,Tesla Energy,2670000000,Hydro,2020-06-01
+Orsted,Engie,3678000000,Wind,2017-06-24
+NextEra Energy,Orsted,4937000000,Hydro,2019-07-18
+Tesla Energy,Vestas,4938000000,Wind,2018-10-29
+Vestas,TotalEnergies,3118000000,Solar,2020-01-04
+Orsted,NextEra Energy,4444000000,Hydro,2022-08-06
+NextEra Energy,Brookfield Renewable Partners,1829000000,Wind,2019-09-27
+Enel Green Power,Iberdrola,1197000000,Hydro,2020-03-29
+EDF Renewables,Brookfield Renewable Partners,3371000000,Solar,2024-01-25
+TotalEnergies,Iberdrola,3987000000,Hydro,2016-03-21
+Vestas,Iberdrola,2324000000,Wind,2020-03-07
+Tesla Energy,Vestas,2829000000,Solar,2024-02-24
+Engie,Iberdrola,4928000000,Wind,2024-02-18
+Orsted,TotalEnergies,4527000000,Renewable,2023-08-15
+Iberdrola,Enel Green Power,2284000000,Wind,2020-01-19
+TotalEnergies,Brookfield Renewable Partners,4703000000,Wind,2021-10-13
+TotalEnergies,Orsted,2687000000,Solar,2018-03-10
+Vestas,Iberdrola,3894000000,Wind,2015-11-07
+TotalEnergies,NextEra Energy,4331000000,Hydro,2022-01-30
+Engie,Tesla Energy,4537000000,Wind,2015-11-17
+Vestas,Brookfield Renewable Partners,4466000000,Hydro,2021-11-09
+Brookfield Renewable Partners,EDF Renewables,1618000000,Hydro,2015-01-23
+Brookfield Renewable Partners,Tesla Energy,1329000000,Solar,2016-07-06
+Brookfield Renewable Partners,Iberdrola,3609000000,Solar,2019-06-29
+TotalEnergies,Enel Green Power,4251000000,Hydro,2018-07-14
+Tesla Energy,NextEra Energy,3766000000,Wind,2016-12-28
+Brookfield Renewable Partners,Tesla Energy,4797000000,Renewable,2016-06-13
+Engie,Vestas,4015000000,Renewable,2022-05-30
+NextEra Energy,Engie,4057000000,Hydro,2017-10-25
+NextEra Energy,Tesla Energy,3899000000,Hydro,2020-07-06
+Brookfield Renewable Partners,NextEra Energy,3363000000,Solar,2023-08-07
+Tesla Energy,Engie,2846000000,Hydro,2017-11-15
+Tesla Energy,Iberdrola,4029000000,Wind,2017-07-06
+EDF Renewables,TotalEnergies,3925000000,Renewable,2021-04-29
+Iberdrola,TotalEnergies,2230000000,Renewable,2016-05-07
+Orsted,NextEra Energy,2615000000,Solar,2019-06-04
+Orsted,Brookfield Renewable Partners,4257000000,Renewable,2022-02-05
+Vestas,Tesla Energy,848000000,Hydro,2023-06-23
+Tesla Energy,Brookfield Renewable Partners,1524000000,Renewable,2020-08-30
+Engie,TotalEnergies,3945000000,Renewable,2018-07-21
+Tesla Energy,Brookfield Renewable Partners,4292000000,Hydro,2015-10-17
+EDF Renewables,TotalEnergies,3122000000,Hydro,2015-12-13
+NextEra Energy,Vestas,1557000000,Hydro,2017-12-10
+Vestas,Enel Green Power,4302000000,Hydro,2016-01-23
+TotalEnergies,NextEra Energy,3527000000,Renewable,2020-10-09
+NextEra Energy,Vestas,3321000000,Renewable,2024-09-29
+TotalEnergies,Iberdrola,929000000,Hydro,2015-03-01
+Engie,Brookfield Renewable Partners,3660000000,Solar,2021-07-27
+Iberdrola,EDF Renewables,727000000,Solar,2024-01-03
+Iberdrola,TotalEnergies,819000000,Solar,2020-03-12
+Iberdrola,EDF Renewables,4384000000,Hydro,2024-01-06
+Tesla Energy,EDF Renewables,2324000000,Wind,2016-05-14
+Orsted,EDF Renewables,2223000000,Hydro,2022-03-11
+TotalEnergies,NextEra Energy,3478000000,Wind,2021-10-22
+Orsted,Brookfield Renewable Partners,2987000000,Wind,2017-12-10
+Orsted,Vestas,3615000000,Wind,2018-08-23
+Orsted,Vestas,3170000000,Solar,2018-03-27
+NextEra Energy,Vestas,4001000000,Wind,2024-03-19
+Iberdrola,Engie,2814000000,Solar,2015-08-11
+Enel Green Power,Iberdrola,1868000000,Hydro,2018-04-30
+Enel Green Power,Brookfield Renewable Partners,3864000000,Solar,2017-09-05
+Vestas,Engie,1098000000,Solar,2020-11-22
+Iberdrola,Orsted,2835000000,Wind,2017-10-28
+Enel Green Power,Orsted,3388000000,Solar,2021-06-30
+Enel Green Power,Vestas,4716000000,Solar,2018-04-26
+TotalEnergies,Orsted,1916000000,Wind,2022-05-31
+Iberdrola,Enel Green Power,3559000000,Solar,2016-10-05
+EDF Renewables,TotalEnergies,4852000000,Hydro,2018-08-03
+Iberdrola,Brookfield Renewable Partners,4847000000,Renewable,2015-08-02
+EDF Renewables,TotalEnergies,2506000000,Renewable,2024-06-05
+NextEra Energy,Iberdrola,1486000000,Renewable,2018-09-27
+Engie,NextEra Energy,610000000,Hydro,2024-05-10
+Brookfield Renewable Partners,Orsted,549000000,Solar,2020-03-02
+Engie,Brookfield Renewable Partners,1036000000,Hydro,2024-07-01
+Tesla Energy,Engie,3277000000,Renewable,2015-12-24
+Orsted,Iberdrola,4702000000,Renewable,2018-03-18
+Enel Green Power,Brookfield Renewable Partners,1477000000,Solar,2017-08-06
+Enel Green Power,TotalEnergies,2420000000,Wind,2023-09-09
+Vestas,EDF Renewables,4230000000,Wind,2020-07-11
+Vestas,Orsted,4792000000,Wind,2019-11-20
+EDF Renewables,Engie,2332000000,Solar,2021-01-02
+TotalEnergies,Brookfield Renewable Partners,4388000000,Hydro,2024-09-21
+EDF Renewables,Engie,1040000000,Renewable,2024-09-30
+Engie,Vestas,1201000000,Wind,2022-11-26
+TotalEnergies,EDF Renewables,595000000,Wind,2022-07-05
+EDF Renewables,NextEra Energy,3114000000,Renewable,2020-10-15
+Engie,Vestas,1631000000,Hydro,2020-05-20
+EDF Renewables,Enel Green Power,3856000000,Wind,2024-09-21
+Engie,NextEra Energy,1767000000,Wind,2022-07-17
+EDF Renewables,Engie,2980000000,Wind,2024-01-17
+EDF Renewables,TotalEnergies,970000000,Hydro,2017-05-30
+Vestas,TotalEnergies,2641000000,Solar,2019-05-16
+NextEra Energy,Iberdrola,2814000000,Hydro,2017-10-04
+EDF Renewables,TotalEnergies,3881000000,Solar,2024-08-24
+Orsted,Enel Green Power,2739000000,Renewable,2016-11-11
+Vestas,Enel Green Power,1913000000,Hydro,2018-09-03
+Enel Green Power,EDF Renewables,4575000000,Solar,2018-10-10
+Brookfield Renewable Partners,Vestas,4397000000,Hydro,2021-05-06
+TotalEnergies,Engie,4147000000,Wind,2019-02-24
+Brookfield Renewable Partners,Orsted,4792000000,Solar,2024-05-05
+Brookfield Renewable Partners,NextEra Energy,2359000000,Renewable,2024-11-08
+Vestas,Enel Green Power,939000000,Solar,2024-04-18
+Orsted,Brookfield Renewable Partners,1342000000,Hydro,2021-03-27
+Vestas,TotalEnergies,3745000000,Renewable,2019-07-16
+Iberdrola,Tesla Energy,3444000000,Renewable,2015-02-25
+Iberdrola,NextEra Energy,2424000000,Wind,2021-01-10
+Engie,EDF Renewables,3939000000,Solar,2019-01-24
+NextEra Energy,Iberdrola,813000000,Hydro,2020-04-27
+EDF Renewables,Enel Green Power,2537000000,Hydro,2016-05-24
+Tesla Energy,Enel Green Power,3426000000,Hydro,2020-12-26
+EDF Renewables,Iberdrola,3469000000,Wind,2020-07-17
+NextEra Energy,TotalEnergies,1172000000,Renewable,2017-01-06
+TotalEnergies,Engie,1316000000,Renewable,2024-09-05
+NextEra Energy,TotalEnergies,4985000000,Solar,2018-12-15
+Engie,NextEra Energy,1462000000,Wind,2023-10-28
+EDF Renewables,Orsted,3760000000,Solar,2018-07-29
+TotalEnergies,Tesla Energy,1640000000,Hydro,2020-11-24
+Tesla Energy,Iberdrola,2333000000,Hydro,2022-03-13
+NextEra Energy,Iberdrola,4849000000,Solar,2018-09-22
+Brookfield Renewable Partners,Engie,3566000000,Solar,2016-11-18
+EDF Renewables,NextEra Energy,3424000000,Solar,2024-03-25
+Brookfield Renewable Partners,NextEra Energy,854000000,Wind,2021-04-01
+TotalEnergies,Tesla Energy,1192000000,Hydro,2015-10-09
+Tesla Energy,Vestas,4309000000,Hydro,2016-02-16
+Orsted,NextEra Energy,4073000000,Hydro,2016-05-22
+TotalEnergies,Tesla Energy,1492000000,Hydro,2024-07-19
+Tesla Energy,NextEra Energy,4523000000,Solar,2024-11-02
+Orsted,Tesla Energy,2851000000,Wind,2021-08-06
+Orsted,EDF Renewables,999000000,Renewable,2017-12-01
+TotalEnergies,NextEra Energy,719000000,Wind,2015-03-16
+NextEra Energy,Tesla Energy,2505000000,Wind,2018-09-15
+Engie,Enel Green Power,4997000000,Hydro,2016-03-18
+TotalEnergies,Tesla Energy,854000000,Hydro,2022-11-14
+EDF Renewables,Vestas,3153000000,Renewable,2021-09-16
+Orsted,TotalEnergies,975000000,Renewable,2018-10-17
+EDF Renewables,Iberdrola,1552000000,Solar,2015-06-02
+Brookfield Renewable Partners,EDF Renewables,2592000000,Renewable,2017-05-09
+Orsted,NextEra Energy,989000000,Wind,2023-05-06
+Enel Green Power,Orsted,1768000000,Renewable,2024-07-19
+NextEra Energy,Brookfield Renewable Partners,1782000000,Renewable,2021-07-14
+Brookfield Renewable Partners,Tesla Energy,2080000000,Solar,2022-12-05
+TotalEnergies,Vestas,1145000000,Solar,2023-06-17
+Orsted,Brookfield Renewable Partners,2727000000,Renewable,2018-03-01
+EDF Renewables,TotalEnergies,524000000,Hydro,2016-08-25
+NextEra Energy,EDF Renewables,4532000000,Renewable,2024-03-25
+Engie,Tesla Energy,4469000000,Renewable,2023-12-27
+Tesla Energy,TotalEnergies,1113000000,Solar,2015-07-05
+Iberdrola,Tesla Energy,1122000000,Renewable,2016-08-16
+Iberdrola,Brookfield Renewable Partners,1626000000,Renewable,2022-06-10
+Iberdrola,Orsted,1064000000,Wind,2015-05-20
+NextEra Energy,Vestas,2086000000,Wind,2016-09-17
+Engie,Iberdrola,3616000000,Solar,2019-08-31
+NextEra Energy,Orsted,3522000000,Wind,2022-11-12
+NextEra Energy,EDF Renewables,3277000000,Wind,2021-11-30
+NextEra Energy,Iberdrola,1557000000,Hydro,2018-12-09
+Vestas,Engie,1241000000,Solar,2019-04-14
+Tesla Energy,TotalEnergies,2330000000,Hydro,2015-09-14
+Vestas,Iberdrola,646000000,Solar,2018-03-15
+NextEra Energy,TotalEnergies,1914000000,Solar,2017-08-01
+Orsted,NextEra Energy,3717000000,Hydro,2018-02-17
+Iberdrola,Tesla Energy,4473000000,Renewable,2018-09-16
+EDF Renewables,Vestas,2260000000,Solar,2017-03-03
+Engie,Iberdrola,2704000000,Solar,2018-10-16
+Brookfield Renewable Partners,Enel Green Power,1579000000,Solar,2017-11-23
+EDF Renewables,NextEra Energy,742000000,Wind,2018-08-02
+TotalEnergies,Orsted,1645000000,Hydro,2016-10-24
+Brookfield Renewable Partners,EDF Renewables,3046000000,Hydro,2023-07-06
+Tesla Energy,Vestas,4213000000,Hydro,2019-10-01
+NextEra Energy,Orsted,2375000000,Renewable,2024-08-19
+Vestas,Tesla Energy,4523000000,Hydro,2022-11-01
+Vestas,Engie,4888000000,Solar,2022-05-10
+Iberdrola,EDF Renewables,1590000000,Solar,2021-12-25
+Iberdrola,Enel Green Power,4567000000,Renewable,2015-07-26
+Vestas,TotalEnergies,2433000000,Wind,2015-09-20
+Enel Green Power,Iberdrola,749000000,Hydro,2020-03-01
+Orsted,TotalEnergies,3132000000,Wind,2018-06-08
+Iberdrola,Orsted,2937000000,Renewable,2023-11-16
+Iberdrola,EDF Renewables,4132000000,Renewable,2021-10-21
+Iberdrola,EDF Renewables,1989000000,Wind,2019-05-31
+Engie,Brookfield Renewable Partners,859000000,Hydro,2018-11-02
+Tesla Energy,NextEra Energy,3010000000,Renewable,2021-07-12
+Engie,Orsted,3226000000,Renewable,2016-04-03
+Orsted,Brookfield Renewable Partners,4379000000,Solar,2023-06-04
+EDF Renewables,Orsted,1093000000,Renewable,2023-11-21
+EDF Renewables,TotalEnergies,3788000000,Hydro,2016-09-10
+Vestas,TotalEnergies,3894000000,Renewable,2024-05-09
+NextEra Energy,Orsted,3147000000,Wind,2017-11-15
+Engie,Iberdrola,4489000000,Renewable,2024-12-10
+Enel Green Power,Orsted,3337000000,Renewable,2018-08-05
+Iberdrola,Engie,1372000000,Renewable,2018-11-14
+Iberdrola,Enel Green Power,668000000,Wind,2016-07-01
+Enel Green Power,Vestas,2966000000,Hydro,2024-07-15
+NextEra Energy,EDF Renewables,836000000,Wind,2022-07-17
+Vestas,Enel Green Power,2904000000,Wind,2018-02-15
+Engie,Iberdrola,1222000000,Wind,2024-02-23
+NextEra Energy,Iberdrola,4596000000,Renewable,2022-07-08
+Enel Green Power,Engie,1377000000,Hydro,2023-10-04
+Orsted,TotalEnergies,3103000000,Hydro,2020-12-28
+Vestas,EDF Renewables,836000000,Renewable,2015-05-14
+Brookfield Renewable Partners,TotalEnergies,1185000000,Renewable,2021-12-01
+TotalEnergies,Brookfield Renewable Partners,3289000000,Solar,2016-06-02
+Tesla Energy,TotalEnergies,1402000000,Solar,2016-07-10
+Brookfield Renewable Partners,Iberdrola,4575000000,Renewable,2022-07-04
+NextEra Energy,Tesla Energy,4926000000,Hydro,2021-10-17
+Brookfield Renewable Partners,NextEra Energy,4784000000,Wind,2024-11-30
+Iberdrola,TotalEnergies,2844000000,Renewable,2020-09-08
+Orsted,Iberdrola,1717000000,Hydro,2017-04-13
+Engie,TotalEnergies,1536000000,Renewable,2020-10-28
+Brookfield Renewable Partners,TotalEnergies,4456000000,Solar,2020-06-16
+Iberdrola,Brookfield Renewable Partners,4097000000,Solar,2020-08-30
+Brookfield Renewable Partners,Engie,2708000000,Solar,2018-07-17
+Enel Green Power,Tesla Energy,1810000000,Solar,2019-10-10
+Brookfield Renewable Partners,NextEra Energy,574000000,Wind,2022-05-29
+NextEra Energy,Iberdrola,1607000000,Solar,2020-10-21
+NextEra Energy,Engie,636000000,Solar,2020-05-21
+Iberdrola,Engie,1370000000,Hydro,2021-06-27
+NextEra Energy,Engie,3243000000,Solar,2016-01-09
+EDF Renewables,Tesla Energy,1329000000,Renewable,2015-03-25
+Brookfield Renewable Partners,EDF Renewables,4588000000,Solar,2016-08-02
+NextEra Energy,Brookfield Renewable Partners,600000000,Solar,2021-01-04
+Tesla Energy,EDF Renewables,1171000000,Hydro,2017-12-03
+Tesla Energy,NextEra Energy,2384000000,Hydro,2019-11-16
+Enel Green Power,NextEra Energy,4487000000,Renewable,2023-03-05
+EDF Renewables,NextEra Energy,3206000000,Renewable,2015-12-25
+Brookfield Renewable Partners,Iberdrola,3053000000,Hydro,2024-05-10
+Orsted,NextEra Energy,1687000000,Renewable,2019-05-30
+NextEra Energy,TotalEnergies,1953000000,Solar,2016-06-28
+Orsted,Brookfield Renewable Partners,2364000000,Wind,2018-01-29
+NextEra Energy,Vestas,3994000000,Hydro,2021-04-23
+Brookfield Renewable Partners,Orsted,4986000000,Hydro,2018-01-17
+Engie,Tesla Energy,2321000000,Wind,2016-08-15
+EDF Renewables,Brookfield Renewable Partners,1829000000,Solar,2021-12-13
+Brookfield Renewable Partners,TotalEnergies,941000000,Wind,2016-09-25
+Enel Green Power,TotalEnergies,696000000,Hydro,2024-12-28
+Enel Green Power,Orsted,4511000000,Wind,2021-04-03
+NextEra Energy,Brookfield Renewable Partners,4673000000,Renewable,2018-04-25
+EDF Renewables,NextEra Energy,2049000000,Solar,2023-06-17
+NextEra Energy,Iberdrola,2329000000,Hydro,2024-06-20
+Iberdrola,Vestas,2058000000,Wind,2015-08-11
+Orsted,Brookfield Renewable Partners,4888000000,Hydro,2021-09-30
+Iberdrola,NextEra Energy,2729000000,Hydro,2022-05-19
+NextEra Energy,Orsted,2491000000,Renewable,2020-04-10
+NextEra Energy,Brookfield Renewable Partners,3908000000,Renewable,2016-12-09
+Orsted,Tesla Energy,2281000000,Renewable,2024-11-08
+Brookfield Renewable Partners,Vestas,1041000000,Solar,2019-08-16
+TotalEnergies,Brookfield Renewable Partners,4391000000,Solar,2024-04-11
+Orsted,Tesla Energy,1981000000,Renewable,2024-11-01
+TotalEnergies,Vestas,1152000000,Hydro,2021-12-21
+Brookfield Renewable Partners,Engie,1120000000,Wind,2015-02-20
+EDF Renewables,Orsted,1913000000,Hydro,2020-11-11
+EDF Renewables,Enel Green Power,3591000000,Renewable,2016-12-08
+Iberdrola,Tesla Energy,2489000000,Renewable,2021-03-02
+Iberdrola,NextEra Energy,3921000000,Hydro,2022-09-06
+Brookfield Renewable Partners,EDF Renewables,2662000000,Hydro,2019-04-06
+Brookfield Renewable Partners,Engie,4468000000,Wind,2016-01-27
+Enel Green Power,Engie,4488000000,Wind,2021-07-07
+Engie,Iberdrola,3167000000,Renewable,2023-07-09
+TotalEnergies,Enel Green Power,3849000000,Wind,2024-10-20
+Orsted,Tesla Energy,1148000000,Renewable,2018-04-17
+TotalEnergies,EDF Renewables,3921000000,Wind,2021-02-16
+Engie,NextEra Energy,2721000000,Hydro,2016-12-20
+Tesla Energy,EDF Renewables,4991000000,Renewable,2020-09-15
+Enel Green Power,Vestas,1980000000,Renewable,2018-06-05
+Brookfield Renewable Partners,TotalEnergies,3845000000,Solar,2019-12-03
+Iberdrola,TotalEnergies,2063000000,Wind,2015-04-23
+EDF Renewables,TotalEnergies,3607000000,Renewable,2017-04-24
+Iberdrola,TotalEnergies,4378000000,Wind,2019-05-01
+Vestas,Brookfield Renewable Partners,519000000,Renewable,2021-10-28
+NextEra Energy,Brookfield Renewable Partners,4189000000,Hydro,2019-11-10
+Engie,Enel Green Power,940000000,Hydro,2018-08-21
+Orsted,NextEra Energy,792000000,Solar,2015-12-14
+Orsted,Brookfield Renewable Partners,1063000000,Renewable,2019-06-04
+EDF Renewables,TotalEnergies,1520000000,Wind,2016-03-16
+TotalEnergies,EDF Renewables,784000000,Renewable,2015-10-10
+Vestas,TotalEnergies,2734000000,Renewable,2015-04-19
+Tesla Energy,Engie,1047000000,Solar,2015-11-29
+EDF Renewables,Vestas,3238000000,Wind,2022-03-04
+Enel Green Power,EDF Renewables,2612000000,Renewable,2018-06-17
+Tesla Energy,Engie,3275000000,Wind,2019-06-07
+Enel Green Power,EDF Renewables,4352000000,Renewable,2016-10-07
+EDF Renewables,Orsted,1687000000,Wind,2022-02-07
+Tesla Energy,Engie,3955000000,Renewable,2024-08-22
+Vestas,Enel Green Power,4716000000,Hydro,2021-10-31
+Tesla Energy,Vestas,4518000000,Renewable,2021-06-13
+Orsted,Vestas,4126000000,Solar,2019-08-24
+EDF Renewables,Enel Green Power,1619000000,Solar,2022-06-01
+Tesla Energy,TotalEnergies,3835000000,Hydro,2021-11-26
+Brookfield Renewable Partners,Enel Green Power,2645000000,Wind,2019-04-24
+Engie,Vestas,4266000000,Solar,2023-07-14
+Enel Green Power,NextEra Energy,2901000000,Hydro,2022-09-06
+Iberdrola,Engie,4591000000,Hydro,2019-12-21
+EDF Renewables,Vestas,1676000000,Hydro,2023-08-24
+NextEra Energy,Tesla Energy,4891000000,Solar,2019-06-12
+Iberdrola,Brookfield Renewable Partners,3256000000,Solar,2015-11-02
+TotalEnergies,EDF Renewables,4829000000,Renewable,2024-11-17
+TotalEnergies,EDF Renewables,3256000000,Solar,2016-02-23
+Brookfield Renewable Partners,EDF Renewables,4246000000,Solar,2023-08-21
+Enel Green Power,TotalEnergies,4499000000,Renewable,2016-10-22
+Vestas,Iberdrola,3684000000,Renewable,2016-02-26
+Enel Green Power,Tesla Energy,2635000000,Solar,2017-05-24
+Tesla Energy,Enel Green Power,3781000000,Wind,2022-10-03
+EDF Renewables,Orsted,2246000000,Solar,2017-12-29
+Enel Green Power,NextEra Energy,3653000000,Wind,2020-03-08
+Engie,EDF Renewables,4353000000,Wind,2024-07-21
+EDF Renewables,Tesla Energy,576000000,Solar,2019-07-31
+TotalEnergies,NextEra Energy,2702000000,Solar,2015-10-26
+Tesla Energy,NextEra Energy,669000000,Wind,2024-07-09
+Iberdrola,Brookfield Renewable Partners,3207000000,Hydro,2018-03-08
+Iberdrola,Orsted,1111000000,Wind,2022-10-24
+Brookfield Renewable Partners,EDF Renewables,3098000000,Hydro,2023-01-21
+Iberdrola,NextEra Energy,4573000000,Solar,2016-11-11
+Engie,Vestas,3492000000,Hydro,2015-03-01
+EDF Renewables,NextEra Energy,1322000000,Renewable,2021-04-19
+Engie,TotalEnergies,1071000000,Wind,2018-09-12
+Vestas,Orsted,3299000000,Hydro,2020-09-10
+NextEra Energy,Vestas,2376000000,Renewable,2020-02-18
+Enel Green Power,EDF Renewables,2853000000,Wind,2024-06-10
+Enel Green Power,TotalEnergies,2977000000,Solar,2017-11-16
+Engie,Enel Green Power,2724000000,Renewable,2022-10-03
+Enel Green Power,Brookfield Renewable Partners,3468000000,Wind,2017-05-03
+Brookfield Renewable Partners,Tesla Energy,2278000000,Renewable,2023-08-08
+Orsted,Engie,3211000000,Solar,2019-07-31
+Engie,Tesla Energy,4490000000,Hydro,2020-03-12
+Orsted,Enel Green Power,2478000000,Wind,2018-04-23
+EDF Renewables,Tesla Energy,2680000000,Solar,2015-03-03
+Enel Green Power,Tesla Energy,1116000000,Wind,2020-07-11
+TotalEnergies,Tesla Energy,804000000,Wind,2017-12-10
+NextEra Energy,TotalEnergies,2457000000,Renewable,2021-09-18
+Orsted,Tesla Energy,1544000000,Hydro,2024-02-11
+Enel Green Power,NextEra Energy,1877000000,Renewable,2022-12-18
+TotalEnergies,Tesla Energy,1296000000,Hydro,2023-10-17
+NextEra Energy,Iberdrola,1283000000,Wind,2021-08-15
+Iberdrola,EDF Renewables,2755000000,Renewable,2020-09-07
+Iberdrola,Orsted,4668000000,Renewable,2017-05-11
+EDF Renewables,Brookfield Renewable Partners,1887000000,Solar,2022-11-05
+Tesla Energy,Iberdrola,3221000000,Solar,2017-07-27
+Brookfield Renewable Partners,Vestas,3353000000,Hydro,2021-09-11
+NextEra Energy,Tesla Energy,2107000000,Solar,2020-03-26
+Vestas,Tesla Energy,1287000000,Wind,2024-02-28
+Tesla Energy,Vestas,3402000000,Solar,2022-04-13
+Brookfield Renewable Partners,Engie,1065000000,Renewable,2017-04-20
+EDF Renewables,Orsted,3881000000,Renewable,2016-04-01
+Iberdrola,Engie,4456000000,Solar,2017-12-22
+EDF Renewables,NextEra Energy,635000000,Wind,2019-12-21
+Orsted,Enel Green Power,1230000000,Renewable,2016-10-18
+EDF Renewables,NextEra Energy,2838000000,Hydro,2018-11-04
+Tesla Energy,Engie,3116000000,Hydro,2019-01-17
+EDF Renewables,Engie,1188000000,Wind,2022-11-17
+Vestas,Tesla Energy,1778000000,Solar,2018-11-04
+NextEra Energy,Enel Green Power,2663000000,Hydro,2015-01-11
+Enel Green Power,Iberdrola,760000000,Renewable,2023-05-01
+Iberdrola,NextEra Energy,4513000000,Solar,2015-11-12
+NextEra Energy,Brookfield Renewable Partners,4834000000,Solar,2023-06-29
+Tesla Energy,Enel Green Power,1238000000,Solar,2017-01-15
+Enel Green Power,NextEra Energy,4675000000,Wind,2018-10-28
+Brookfield Renewable Partners,Iberdrola,3444000000,Solar,2016-10-08
+TotalEnergies,Tesla Energy,534000000,Renewable,2022-03-16
+NextEra Energy,EDF Renewables,3099000000,Solar,2017-06-10
+Brookfield Renewable Partners,EDF Renewables,2621000000,Wind,2023-08-28
+EDF Renewables,NextEra Energy,2119000000,Hydro,2022-11-13
+Brookfield Renewable Partners,Iberdrola,716000000,Solar,2015-03-18
+Engie,Tesla Energy,2818000000,Hydro,2019-01-06
+NextEra Energy,Brookfield Renewable Partners,2377000000,Solar,2023-11-28
+Iberdrola,Engie,2673000000,Renewable,2019-09-16
+NextEra Energy,Vestas,4531000000,Hydro,2019-08-14
+EDF Renewables,NextEra Energy,1382000000,Solar,2017-06-27
+Enel Green Power,Iberdrola,1968000000,Hydro,2019-09-28
+EDF Renewables,NextEra Energy,2751000000,Hydro,2020-04-05
+Tesla Energy,Vestas,2305000000,Solar,2023-11-14
+NextEra Energy,EDF Renewables,4292000000,Solar,2017-03-31
+NextEra Energy,Vestas,2092000000,Solar,2022-08-24
+Tesla Energy,Orsted,4596000000,Hydro,2023-07-14
+TotalEnergies,Tesla Energy,4143000000,Hydro,2021-10-21
+TotalEnergies,Orsted,3829000000,Hydro,2018-08-03
+Enel Green Power,TotalEnergies,945000000,Renewable,2016-04-13
+Brookfield Renewable Partners,Vestas,2292000000,Hydro,2022-07-13
+NextEra Energy,Enel Green Power,2088000000,Solar,2018-06-21
+Engie,Orsted,1217000000,Wind,2015-06-07
+Brookfield Renewable Partners,EDF Renewables,4427000000,Renewable,2017-08-06
+Brookfield Renewable Partners,Iberdrola,1954000000,Solar,2016-08-05
+TotalEnergies,Brookfield Renewable Partners,1152000000,Hydro,2024-03-31
+Engie,Vestas,3958000000,Solar,2021-07-17
+Tesla Energy,Brookfield Renewable Partners,2722000000,Renewable,2015-04-10
+Vestas,Enel Green Power,4153000000,Hydro,2015-11-12
+EDF Renewables,Iberdrola,3858000000,Renewable,2024-09-30
+Tesla Energy,Orsted,739000000,Solar,2023-04-26
+EDF Renewables,NextEra Energy,2087000000,Renewable,2023-09-25
+TotalEnergies,Vestas,1147000000,Hydro,2019-07-14
+Iberdrola,Orsted,1186000000,Wind,2020-09-15
+Orsted,Vestas,1225000000,Renewable,2015-08-20
+Vestas,Engie,4959000000,Hydro,2017-12-28
+Vestas,Engie,3455000000,Solar,2019-06-22
+NextEra Energy,Engie,3838000000,Wind,2017-03-19
+Iberdrola,Brookfield Renewable Partners,1476000000,Renewable,2018-08-24
+NextEra Energy,EDF Renewables,1131000000,Hydro,2016-05-14
+Iberdrola,Vestas,2128000000,Hydro,2020-10-16
+Brookfield Renewable Partners,Iberdrola,3814000000,Renewable,2017-05-26
+Orsted,TotalEnergies,1919000000,Hydro,2021-10-16
